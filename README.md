@@ -1,3 +1,5 @@
+- https://github.com/search?o=desc&p=2&q=stars%3A%3E100000&s=stars&type=Repositories
+
 - https://github.com/sindresorhus/awesome
 - https://github.com/521xueweihan/HelloGitHub
 - https://github.com/ossu/computer-science
